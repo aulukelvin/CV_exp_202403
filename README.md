@@ -1,0 +1,2 @@
+This is an experiment comparing the performance and speed of various CV models, including Inception v3, Efficientnet, and several VIT models.
+The goal is to understand whether modern CNN and VIT models can offer significant better performance than Inception V3.
